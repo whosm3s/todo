@@ -1,1 +1,1 @@
-# todo
+This is a simple web app with two main functions the Active Tasks which Displays the list of tasks you still want to complete. And Done Tasks which Shows the tasks you have already completed. All task data remains available as long as you don’t click the Reset button, which clears everything
